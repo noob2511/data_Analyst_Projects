@@ -4,9 +4,9 @@ Welcome to my Data Analyst Projects Repository! This repository contains a colle
 
 ## Project List
 
-1. **Project 1: Exploratory Data Analysis (EDA) on [Dataset Name]**
-   - Description: Brief description of the project and dataset.
-   - Skills Used: Python, Pandas, Matplotlib/Seaborn for data visualization.
+1. **Project 1: Data Analysis (DA) on [Smart Watch Activity Dataset]**
+   - Description: The project contains the dataset for the activity of the users and we are trying to gain insights from it.
+   - Skills Used: Python, Pandas, Matplotlib/Express for data visualization.
 
 
 ## Skills Demonstrated
